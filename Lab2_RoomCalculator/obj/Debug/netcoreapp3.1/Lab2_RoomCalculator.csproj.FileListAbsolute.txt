@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Lab2_RoomCalculator\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.pdb
