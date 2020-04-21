@@ -57,7 +57,7 @@ namespace Lab2_RoomCalculator
                     Console.WriteLine("\nWould you like to calculate another room? (y/n)\n");
                     input = Console.ReadLine();
                     input = input.Substring(0,1).ToLower();
-                    if ((input == "y") | (input == "n"))
+                    if ((input == "y") || (input == "n"))
                         valid = true;
                     else
                         Console.WriteLine("Invalid entry. Try again.");
